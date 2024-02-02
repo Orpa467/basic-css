@@ -1,0 +1,44 @@
+.header{
+    height: 200px;
+    /* background-image: url('welcome.jpg'); */
+    /* background-image: url('../cockatiel.jpg'); */
+    /* background-image: url('../images/katrina.jpg'); */
+    color: black;
+    background-image: url('../images/welcome.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:bottom ;
+    background-color: pink;
+    background-blend-mode: multiply;
+
+}
+h3{
+    text-decoration: underline green;
+    color: magenta;
+}
+p{
+    color: blueviolet;
+}
+.page-title{
+    font-weight: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+ul li{
+    color: purple;
+    display: inline;
+}
+span{
+    border: 1px solid;
+    width:100px ;
+    margin-top: 50px;
+    display: inline-block;
+    display: none;
+}
+.blog{
+    background-color: aqua;
+    box-shadow: 10px 10px 10px gray;
+    margin-bottom: 100px;
+}
